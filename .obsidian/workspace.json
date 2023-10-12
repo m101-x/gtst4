@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day 2.md.md",
+                "file": "Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "day 2.md.md",
+                "file": "Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "day 2.md.md",
+                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "day 2.md.md"
+                "file": "Introduction.md"
               }
             }
           }
@@ -177,8 +178,9 @@
   },
   "active": "35e84bb0269ec744",
   "lastOpenFiles": [
-    "Untitled 1.md",
+    "Pasted image 20231012125950.png",
     "day 2.md.md",
+    "Untitled 1.md",
     "Introduction.md",
     "Untitled.md"
   ]
