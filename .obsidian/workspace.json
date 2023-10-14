@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "10ba2fe0bf5aac85",
+        "id": "e92a8134f4639c4b",
         "type": "tabs",
         "children": [
           {
-            "id": "dae886b16a96df04",
+            "id": "bb9b2965c4e877f9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,39 +16,19 @@
             }
           },
           {
-            "id": "608c2bc5351f5929",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "069022796b3c0962",
+            "id": "7bb642ba9c42875b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35e84bb0269ec744",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Introduction.md",
+                "file": "day 3.md.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "day 3.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "day 3.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md"
+                "file": "day 3.md.md"
               }
             }
           }
@@ -176,12 +156,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35e84bb0269ec744",
+  "active": "7bb642ba9c42875b",
   "lastOpenFiles": [
-    "Pasted image 20231012125950.png",
-    "day 2.md.md",
+    "day 3.md.md",
     "Untitled 1.md",
     "Introduction.md",
+    "Pasted image 20231012125950.png",
+    "day 2.md.md",
     "Untitled.md"
   ]
 }
