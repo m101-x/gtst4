@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "ded893e0992affa8",
+            "id": "7d061d6baed809de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day5.md.md",
+                "file": "day6.md.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "day6.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "day6.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "day6.md.md"
+              }
             }
           }
         ]
@@ -161,10 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bb9b2965c4e877f9",
+  "active": "7d061d6baed809de",
   "lastOpenFiles": [
-    "day6.md.md",
     "day5.md.md",
+    "day6.md.md",
+    "README.md",
+    "day6.md.md",
     "day4.md.md",
     "day 3.md.md",
     "Untitled 1.md",
