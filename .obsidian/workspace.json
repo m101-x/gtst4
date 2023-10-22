@@ -16,39 +16,28 @@
             }
           },
           {
-            "id": "7bb642ba9c42875b",
+            "id": "ded893e0992affa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "day 3.md.md",
+                "file": "day5.md.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "19637faae706d616",
+            "id": "c7baf918f5d93274",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "61a2f7ccb674a3f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "day4.md.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.4.16"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "day4.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "day4.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "day4.md.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -176,8 +161,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61a2f7ccb674a3f1",
+  "active": "bb9b2965c4e877f9",
   "lastOpenFiles": [
+    "day6.md.md",
+    "day5.md.md",
     "day4.md.md",
     "day 3.md.md",
     "Untitled 1.md",
